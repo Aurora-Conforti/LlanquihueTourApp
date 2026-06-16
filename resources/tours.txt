@@ -1,0 +1,7 @@
+Ruta Gastronomica del Lago;gastronomico;45000;8
+Paseo Lacustre Llanquihue;lacustre;32000;12
+Excursion Cultural Frutillar;cultural;28000;6
+Tour Volcan Osorno;aventura;67000;4
+Ruta de los Jardines;cultural;19000;15
+Navegacion Golfo de Ancud;lacustre;54000;3
+Tour Gastronomico Puerto Montt;gastronomico;38000;10
