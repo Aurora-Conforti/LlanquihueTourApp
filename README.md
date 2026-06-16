@@ -1,2 +1,2 @@
 # LlanquihueTourApp
-Prototipo aplicación para 
+Prototipo aplicación 
